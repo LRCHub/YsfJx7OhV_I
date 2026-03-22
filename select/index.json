@@ -1,0 +1,24 @@
+{
+  "version": 1,
+  "base_track": "季節の灯 (Acoustic)",
+  "base_artist": "Acidman",
+  "createdAt": "2026-03-22T06:13:14.354951Z",
+  "candidates": [
+    {
+      "id": "lrclib_1",
+      "source": "lrclib",
+      "title": "季節の灯",
+      "artist": "ACIDMAN",
+      "has_synced": true,
+      "path": "select/01_季節の灯_ACIDMAN.lrc"
+    },
+    {
+      "id": "petitlyrics_1",
+      "source": "petitlyrics",
+      "title": "季節の灯",
+      "artist": "ACIDMAN",
+      "has_synced": false,
+      "path": "select/pl_01_季節の灯_ACIDMAN.txt"
+    }
+  ]
+}
